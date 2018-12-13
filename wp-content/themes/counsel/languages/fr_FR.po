@@ -1,0 +1,484 @@
+# Copyright (C) 2016 mudThemes
+# This file is distributed under the GNU General Public License, v2 (or newer).
+msgid ""
+msgstr ""
+"Project-Id-Version: Counsel 1.0.7.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/counsel\n"
+"POT-Creation-Date: 2017-02-08 13:41+0530\n"
+"PO-Revision-Date: 2018-01-11 12:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: archive.php:14
+msgid "Daily Archives: %s"
+msgstr "Archives Journalières: %s"
+
+#: archive.php:16
+msgid "Monthly Archives: %s"
+msgstr "Archives Mensuelles: %s"
+
+#: archive.php:16
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:18
+msgid "Yearly Archives: %s"
+msgstr "Archives Annuelles: %s"
+
+#: archive.php:18
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: archive.php:24
+msgid "Archive of posts published in the specified %s"
+msgstr "Archive des articles publiés dans le spécifié %s"
+
+#: author.php:13
+msgid "Author Archives: %s"
+msgstr "Archives de l'auteur: %s"
+
+#: category.php:13
+msgid "Category Archives: %s"
+msgstr "Archives de la catégorie: %s"
+
+#: comments.php:10
+msgid ""
+"This post is password protected. Enter the password to view any comments"
+msgstr ""
+"Ce poste est protégé par mot. Entrer le mot de passe pour voir les "
+"commentaires"
+
+#: comments.php:19
+msgid "Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] "Commentaires"
+msgstr[1] "%1$s Commentaires"
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:32
+msgid "Newer Comments"
+msgstr "Commentaires récents"
+
+#: comments.php:39
+msgid "Sorry, Comments are closed."
+msgstr "Désolé, les commentaires sont fermés."
+
+#: footer.php:13
+msgid "Copyright"
+msgstr "Droits d'auteur"
+
+#: footer.php:13
+msgid "Powered by"
+msgstr "Alimenté par"
+
+#: footer.php:13
+msgid "Counsel theme by"
+msgstr "Counsel thème par"
+
+#: functions.php:123
+msgid "Home"
+msgstr "Accueil"
+
+#: functions.php:143 functions.php:145
+msgid "Footerbox Sidebar #1"
+msgstr "Pied de page Sidebar #1"
+
+#: functions.php:154 functions.php:156
+msgid "Footerbox Sidebar #2"
+msgstr "Pied de page Sidebar #2"
+
+#: functions.php:165 functions.php:167
+msgid "Footerbox Sidebar #3"
+msgstr "Pied de page Sidebar #3"
+
+#: functions.php:481
+msgid "Ooops! Nothing Found"
+msgstr "Oops! rien n'a été trouvé"
+
+#: functions.php:483 functions.php:485
+msgid "Nothing found for: %s"
+msgstr "Rien trouvé pour: %s"
+
+#: functions.php:492
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Excuses, mais aucun résultat n'a été trouvé pour l'archive demandée. Une "
+"recherche pourrait aider à trouver une publication en rapport."
+
+#: functions.php:509
+msgid "Day"
+msgstr "Jour"
+
+#: functions.php:511
+msgid "Month"
+msgstr "Mois"
+
+#: functions.php:513
+msgid "Year"
+msgstr "An"
+
+#: functions.php:515
+msgid "Period"
+msgstr "Période"
+
+#: functions.php:538
+msgid "Newer posts"
+msgstr "Messages plus récents"
+
+#: functions.php:539
+msgid "Older posts"
+msgstr "Articles plus anciens"
+
+#: functions.php:555
+msgctxt "Previous post link"
+msgid "&rarr;"
+msgstr ""
+
+#: functions.php:556
+msgctxt "Next post link"
+msgid "&larr;"
+msgstr ""
+
+#: functions.php:606
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions.php:625
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: functions.php:627 functions.php:641
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: functions.php:641
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:658
+msgid "Blog"
+msgstr ""
+
+#: includes/customizer.php:26
+msgid "General"
+msgstr "Général"
+
+#: includes/customizer.php:33 includes/customizer.php:323
+msgid "Header"
+msgstr "Entête"
+
+#: includes/customizer.php:40 includes/customizer.php:50
+msgid "Site Logo"
+msgstr "Logo du site"
+
+#: includes/customizer.php:61 includes/customizer.php:422
+msgid "Slideshow"
+msgstr "Diaporama"
+
+#: includes/customizer.php:68
+msgid "Slide #1"
+msgstr "Diapositive #1"
+
+#: includes/customizer.php:78
+msgid "Slideshow Image #1"
+msgstr "Diaporama Image #1"
+
+#: includes/customizer.php:89
+msgid "Elegant and Stylish Theme"
+msgstr "Thème élégant et élégant"
+
+#: includes/customizer.php:90
+msgid "Slideshow Heading #1"
+msgstr "Diapositive Rubrique #1"
+
+#: includes/customizer.php:101
+msgid ""
+"Beautiful and Attractive Layout with Theme Options to configure settings "
+"easily."
+msgstr ""
+"Beau et attrayant thème. Utilisez Options pour configurer les paramètres "
+"facilement."
+
+#: includes/customizer.php:102
+msgid "Slideshow Text #1"
+msgstr "Diaporama Texte #1"
+
+#: includes/customizer.php:113
+msgid "Get Premium"
+msgstr "Obtenir une prime"
+
+#: includes/customizer.php:114
+msgid "Slideshow Button #1"
+msgstr "Diaporama Bouton #1"
+
+#: includes/customizer.php:126
+msgid "Slideshow Button #1 (URL)"
+msgstr "Diaporama Bouton #1 (URL)"
+
+#: includes/customizer.php:137
+msgid "Slide #2"
+msgstr "Diapositive #2"
+
+#: includes/customizer.php:147
+msgid "Slideshow Image #2"
+msgstr "Diaporama Image #2"
+
+#: includes/customizer.php:159
+msgid "Slideshow Heading #2"
+msgstr "Diapositive Rubrique #2"
+
+#: includes/customizer.php:171
+msgid "Slideshow Text #2"
+msgstr "Diaporama Texte #2"
+
+#: includes/customizer.php:183
+msgid "Slideshow Button #2"
+msgstr "Slideshow Button #2"
+
+#: includes/customizer.php:195
+msgid "Slideshow Button #2 (URL)"
+msgstr "Diaporama Bouton #1 (URL)"
+
+#: includes/customizer.php:206
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/customizer.php:216
+msgid "Slideshow Speed"
+msgstr "Vitesse du diaporama"
+
+#: includes/customizer.php:229
+msgid "Slideshow Animation Speed"
+msgstr "Diaporama Animation Vitesse"
+
+#: includes/customizer.php:242
+msgid "Hide Navigation"
+msgstr "Masquer la navigation"
+
+#: includes/customizer.php:254
+msgid "Smooth Height"
+msgstr "Lisse Hauteur"
+
+#: includes/customizer.php:266
+msgid "Animation Type"
+msgstr "Type d'animation"
+
+#: includes/customizer.php:279
+msgid "Slideshow Direction"
+msgstr "Direction du diaporama"
+
+#: includes/customizer.php:291
+msgid "Layout"
+msgstr "Disposition"
+
+#: includes/customizer.php:298 includes/customizer.php:471
+msgid "Global"
+msgstr "Global"
+
+#: includes/customizer.php:308
+msgid "Select Layout"
+msgstr "Sélectionnez la mise en page"
+
+#: includes/customizer.php:312
+msgid "Full Screen"
+msgstr "Plein écran"
+
+#: includes/customizer.php:313
+msgid "Boxed Mode"
+msgstr "Mode en boîte"
+
+#: includes/customizer.php:333
+msgid "Hide Header"
+msgstr "Masquer l'en-tête"
+
+#: includes/customizer.php:345
+msgid "Hide Site Description"
+msgstr "Masquer la description du site"
+
+#: includes/customizer.php:356
+msgid "Footer"
+msgstr "Bas de page"
+
+#: includes/customizer.php:366
+msgid "Company Name"
+msgstr "Nom de la compagnie"
+
+#: includes/customizer.php:378
+msgid "Hide Footer"
+msgstr "Masquer le pied de page"
+
+#: includes/customizer.php:390
+msgid "Show Copyright"
+msgstr "Afficher le copyright"
+
+#: includes/customizer.php:401
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/customizer.php:411
+msgid "Hide Menu"
+msgstr "Masquer le menu"
+
+#: includes/customizer.php:432
+msgid "Hide Featured Section"
+msgstr "Masquer la section en vedette"
+
+#: includes/customizer.php:443 includes/customizer.php:527
+msgid "Social"
+msgstr "Social"
+
+#: includes/customizer.php:453
+msgid "Disable Social Section"
+msgstr "Désactiver la section sociale"
+
+#: includes/customizer.php:464
+msgid "Colors"
+msgstr "Couleurs"
+
+#: includes/customizer.php:480
+msgid "Skins"
+msgstr "Skins"
+
+#: includes/customizer.php:490
+msgid "Select Skin"
+msgstr "Sélectionnez la peau"
+
+#: includes/customizer.php:494
+msgid "Classic White"
+msgstr ""
+
+#: includes/customizer.php:495
+msgid "Cadet Blue"
+msgstr ""
+
+#: includes/customizer.php:496
+msgid "Feather Blue"
+msgstr ""
+
+#: includes/customizer.php:506 includes/customizer.php:516
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: includes/customizer.php:534
+msgid "Social Profiles"
+msgstr "Profils sociaux"
+
+#: includes/customizer.php:544
+msgid "Telephone Number"
+msgstr "Numéro de téléphone"
+
+#: includes/customizer.php:556
+msgid "Facebook"
+msgstr ""
+
+#: includes/customizer.php:568
+msgid "Twitter"
+msgstr ""
+
+#: includes/customizer.php:580
+msgid "RSS"
+msgstr ""
+
+#: includes/customizer.php:591
+msgid "About Counsel Theme"
+msgstr "À propos de Counsel Theme"
+
+#: includes/customizer_extended.php:19
+msgid "Theme Documentation"
+msgstr "Documentation thématique"
+
+#: includes/customizer_extended.php:20
+msgid "Contact us"
+msgstr "Contactez nous"
+
+#: loop.php:14
+msgid "Written on"
+msgstr "Écrit le"
+
+#: loop.php:15
+msgid "by"
+msgstr "par"
+
+#: loop.php:26 page.php:21 single.php:35
+msgid "Pages:"
+msgstr "Pages:"
+
+#: page.php:25 single.php:39
+msgid "Edit"
+msgstr "Modifier"
+
+#: search.php:13
+msgid " Search Result for: %s"
+msgstr "Résultat de la recherche pour: %s"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "Rechercher..."
+
+#: searchform.php:11
+msgid "Go"
+msgstr "Aller"
+
+#: single.php:22
+msgid "Posted on"
+msgstr "Posté sur"
+
+#: single.php:22
+msgid "By"
+msgstr "Par"
+
+#: single.php:28
+msgid "View all posts by %s"
+msgstr "Voir tous les messages par %s"
+
+#: single.php:40
+msgid "Tags: "
+msgstr "Tags: "
+
+#: tag.php:13
+msgid "Tag Archives: %s"
+msgstr "Archives des tags: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Counsel"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.mudthemes.com/counsel"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Counsel is a beautiful multipurpose responsive theme that can used for "
+"corporate, professional or magazine blogging sites. Counsel has single top "
+"menu with 3 footer sidebars. The Theme option panel can be used to modify "
+"various aspect of this theme easily. Counsel is built for corporate "
+"professionals but anyone who wants simple and sleek design will like this "
+"theme too. Counsel is Translation ready and comes with 100% GPL license and "
+"online documentation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mudThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mudthemes.com"
+msgstr ""
